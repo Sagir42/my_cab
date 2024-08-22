@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Cab</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="submit">Submit</string>
+    <string name="display_name"></string>
+    <string name="array_name">List of Countries</string>
+    <array name="countries">
+        <item>Afghanistan</item>
+        <item>Bangladesh</item>
+        <item>China</item>
+        <item>Canada</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>Kenya</item>
+        <item>Libya</item>
+    </array>
+</resources>
